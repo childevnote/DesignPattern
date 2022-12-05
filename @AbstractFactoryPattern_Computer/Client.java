@@ -5,8 +5,6 @@ public class Client {
 		// TODO Auto-generated method stub
 		ComputerFactory computer = new ComputerFactory();
 		computer.createComputer("LG");
-		computer.createComputer("Samsung");
-		
+		computer.createComputer("Samsung");	
 	}
-
 }
